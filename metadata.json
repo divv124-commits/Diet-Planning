@@ -1,0 +1,6 @@
+{
+  "name": "Nourish & Move | Practical Nutrition & Lifestyle Coaching",
+  "description": "Practical nutrition, strength fitness, and sustainable healthy habits for busy professionals by a certified diet planning coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
